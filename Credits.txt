@@ -1,0 +1,39 @@
+Sulayman's Prostart WebBrowser
+Version 2.0  (BETA)
+Copyright (c) 2000
+Sulayman Corp.
+
+
+
+
+CREDITS
+______________________________
+
+Created by:
+
+Sulayman Khan
+Simon Skrodal
+
+Special Thanks To:
+
+PlanetSourceCode.com
+Shoaib Khan
+Simon Skrodal
+And many others...
+______________________________
+
+Thanks for helping me on this
+Version of Prostart WebBrowser
+
+As you can see, this browser
+could still be improved on
+so request with help on the
+favourites is still on. I also
+need help with saving the
+option properties to a file
+so that it could be loaded
+when loading the browser.
+
+Thanks and please send
+feedback or comments to
+sulayman@home.com
